@@ -1,0 +1,6 @@
+{
+  "name": "Juliana Virla - Links",
+  "description": "Premium link-in-bio site for Juliana Virla Beauty Studio",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
